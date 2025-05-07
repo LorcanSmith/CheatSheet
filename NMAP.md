@@ -6,7 +6,10 @@
 ```bash
 nmap <IP>
 ```
-
+## 💨 Fast Scan for THM
+```bash
+sudo nmap -sS -p- -vv <IP>
+```
 ## 🔧 More Advanced Scan
 
 ```bash
